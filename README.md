@@ -1,6 +1,8 @@
 # Fake-HEVC-support-for-Plex
 Plex direct play hevc video in windows
 
+https://greasyfork.org/zh-CN/scripts/439243-fake-hevc-support-for-plex
+
 中文简介
 使plex网页端在windows上可以直接播放（不转码）hevc的视频（需浏览器支持hevc播放）
 制作原因
