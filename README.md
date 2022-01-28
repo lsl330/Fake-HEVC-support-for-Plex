@@ -10,7 +10,7 @@
 因此制作此脚本</p>
 
 <p>windows浏览器支持播放hevc视频的便捷方法（以edge for chromium为例，chrome需自行测试可行性）</p>
-<p>1、在https://www.free-codecs.com/hevc_video_extension_download.html 下载31823版本的插件</p>
+<p>1、在https://www.free-codecs.com/hevc_video_extension_download.htm 下载31823版本的插件</p>
 <p>2、在地址栏输入：edge://restart，重启edge使安装的插件生效</p>
 <p>注意：必须安装31823版本的插件，后续版本的插件有bug，会导致播放时间出现抖动。安装后，建议关闭windows store的自动更新。</p>
 <p>完成上述步骤后，你的浏览器即可支持hevc视频，但即使如此，你的plex播放hevc内容仍然会提示转码播放</p>
