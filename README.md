@@ -26,7 +26,7 @@ Reason</p>
 <p>So this script was created</p<p>>
 
 <p>windows browser to support the convenient way to play hevc video (edge for chromium as an example, chrome need to test the feasibility of their own)</p>
-<p>1、In https://www.free-codecs.com/hevc_video_extension_download.html download 31823 video_extension</p>
+<p>1、In https://www.free-codecs.com/hevc_video_extension_download.htm download 31823 video_extension</p>
 <p>2, enter in the address bar: edge://restart, Restart edge to enable the installed plug-ins</p>
 <p>Note: you must install the 31823 version of the video_extension, the subsequent version of the plug-in has bugs that can lead to jittering playback time. After installation, it is recommended to turn off the automatic update of windows store.</p>
 <p>After completing the above steps, your browser can support hevc video, but even so, your plex will still prompt transcoded playback when playing hevc content</p>
