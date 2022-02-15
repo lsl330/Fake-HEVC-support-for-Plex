@@ -10,7 +10,7 @@
 因此制作此脚本</p>
 
 <p>windows浏览器支持播放hevc视频的便捷方法（以edge for chromium为例，chrome需自行测试可行性）</p>
-<p>1、在https://www.free-codecs.com/hevc_video_extension_download.htm 下载31823版本的插件</p>
+<p>1、在https://www.free-codecs.com/hevc_video_extension_download.htm 下载HEVC插件（edge版本号大于等于99的可以下载最新版插件，低于99的下载31823版本的插件）</p>
 <p>2、在地址栏输入：edge://restart，重启edge使安装的插件生效</p>
 <p>注意：必须安装31823版本的插件，后续版本的插件有bug，会导致播放时间出现抖动。安装后，建议关闭windows store的自动更新。</p>
 <p>完成上述步骤后，你的浏览器即可支持hevc视频，但即使如此，你的plex播放hevc内容仍然会提示转码播放</p>
@@ -28,7 +28,7 @@ Reason</p>
 <p>So this script was created</p<p>>
 
 <p>windows browser to support the convenient way to play hevc video (edge for chromium as an example, chrome need to test the feasibility of their own)</p>
-<p>1、In https://www.free-codecs.com/hevc_video_extension_download.htm download 31823 video_extension</p>
+<p>1、In https://www.free-codecs.com/hevc_video_extension_download.htm download hevc video_extension(edge version number higher or equal to 99 can download the latest version of the plug-in, lower than 99 download 31823 version of the plug-in)</p>
 <p>2, enter in the address bar: edge://restart, Restart edge to enable the installed plug-ins</p>
 <p>Note: you must install the 31823 version of the video_extension, the subsequent version of the plug-in has bugs that can lead to jittering playback time. After installation, it is recommended to turn off the automatic update of windows store.</p>
 <p>After completing the above steps, your browser can support hevc video, but even so, your plex will still prompt transcoded playback when playing hevc content</p>
