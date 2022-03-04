@@ -19,7 +19,7 @@
 <p>（若你的plex端口非32400，请自行更改将脚本中的32400更改为你的plex网页端口）</p>
 <p>完成上述步骤，即可直接播放hevc内容。朋友们，进行享受支持播放的快乐吧</p>
 
-<p>可能存在的问题，部分电脑上观看hevc视频，颜色会偏暗，个人感觉可能和HDR相关，有解决办法欢迎提出</p>
+<p>部分电脑可能会碰到画面偏暗的问题（应该和nvidia显卡有关），解决办法，地址栏输入edge://flags，将Media Foundation playback for Windows，Media Foundation Site Based Experimentation for Windows 10设置为enable即可解决。Media Foundation Site Based Experimentation for Windows 10只有在edge 99以上版本才存在</p>
 
 <p>English Introduction</p>
 <p>Make plex web on windows can directly play (not transcode) hevc video (need browser support hevc play)</p>
@@ -36,7 +36,7 @@ Reason</p>
 <p>(you need to install Tampermonkey class plugin first)</p>
 <p>(If your plex port is not 32400, please change the 32400 in the script to your plex web port)</p>
 <p>After completing the above steps, you can play hevc content directly. Friends, enjoy the joy of supported playback!</p>
-<p>Possible problems, some computers to watch hevc video, the color will be dark, personal feeling may be related to HDR, there are solutions welcome to propose</p>
+<p>some computers to watch hevc video, the color will be dark,  the solution, enter edge://flags in the address bar, set Media Foundation playback for Windows, Media Foundation Site Based Experimentation for Windows 10 to enable. Media Foundation Site Based Experimentation for Windows 10 is only available on edge version 99+</p>
 <p>Translated with www.DeepL.com/Translator (free version)</p>
 
 
